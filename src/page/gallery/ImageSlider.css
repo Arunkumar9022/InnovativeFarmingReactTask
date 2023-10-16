@@ -1,0 +1,13 @@
+/* ImageSlider.css */
+.carousel {
+    max-width: 100%;
+  }
+  
+  .carousel-inner {
+    max-height: 500px;
+  }
+  
+  .carousel-item img {
+    object-fit: cover;
+    max-height: 500px;
+  }

@@ -1,0 +1,13 @@
+.my-form
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:5px solid blanchedalmond;
+    box-shadow: 10px 10px 10px 10px black;
+    padding:10px 50px;
+    margin-top:100px;
+    width:50%;
+    background-color: #faebd7;
+    text-align: center;
+}
